@@ -1,0 +1,28 @@
+/** @format */
+body {
+    overflow-x: hidden !important;
+  }
+
+  .navbar {
+  color : #000000 !important;
+  }
+
+  .nav-link {
+    color: rgb(0, 0, 0) !important;
+  }
+  
+  .Jumbotron {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(
+      170deg,
+      #808080a8 0%,
+      rgb(80, 80, 80) 100%
+    );
+  }
+  
+  .tulisanku,
+  .Pendidikan,
+  footer {
+    background-color: #808080;
+  }
+  
